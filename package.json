@@ -1,0 +1,16 @@
+{
+	"author" : "Johnny Austin <johnny@johnnyray.me>",
+	"name": "node-matchstats",
+	"version": "0.0.5",
+	"description": "Compares two strings and gives you back stats as to how similar they are",
+	"main": "./lib/matchstats.js",
+	"keywords": [
+		"string",
+		"match",
+		"similar"
+	],
+	"repository" : {
+		"type" : "git",
+	},
+	"license": "MIT"
+}
