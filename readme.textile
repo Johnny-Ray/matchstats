@@ -1,9 +1,0 @@
-MatchStats
-===========
-
-Handy module for comparing the similarities in strings
--------------------------------------------------------
-
-
-
-http://mergedmv.com
