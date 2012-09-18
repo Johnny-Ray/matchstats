@@ -7,10 +7,12 @@
 	"keywords": [
 		"string",
 		"match",
-		"similar"
+		"similar",
+		"compare"
 	],
 	"repository" : {
 		"type" : "git",
+		"url": "https://github.com/Johnny-Ray/matchstats.git"
 	},
 	"license": "MIT"
 }
